@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Angular feat MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubeczilinda/Cakemania_blog.git"
+  },
+  "keywords": [
+    "angular",
+    "express",
+    "pug",
+    "mongoose"
+  ],
+  "author": "Dubeczi Linda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubeczilinda/Cakemania_blog/issues"
+  },
+  "homepage": "https://github.com/dubeczilinda/Cakemania_blog#readme"
+}
